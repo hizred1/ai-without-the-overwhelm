@@ -1,0 +1,7 @@
+PASS — course home exists
+PASS — Lesson 001 exists
+PASS — Watch interaction retained
+PASS — upload interaction retained
+PASS — voice control retained
+PASS — GitHub Pages .nojekyll exists
+PASS — home links to Lesson 001

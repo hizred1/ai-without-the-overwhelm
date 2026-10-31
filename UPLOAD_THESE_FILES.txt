@@ -1,0 +1,9 @@
+Upload the CONTENTS of this folder to the ROOT of hizred1/ai-without-the-overwhelm.
+
+Required structure:
+index.html
+.nojekyll
+README.md
+lesson-001/index.html
+
+Do not upload the ZIP itself into GitHub.
